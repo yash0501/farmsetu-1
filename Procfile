@@ -1,0 +1,1 @@
+web: gunicorn farmsetu.wsgi --log-file -
